@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534609374343",
+    "project_id": "flutterloginsystem-11a85",
+    "storage_bucket": "flutterloginsystem-11a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534609374343:android:8bd569304e9dd828269c22",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534609374343-eont8uh7ifvtg9mndsvt7abhhesnqemi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_login_system",
+            "certificate_hash": "e66b5a8715e430d101d44674abc65cf49613ac3a"
+          }
+        },
+        {
+          "client_id": "534609374343-f73cfnu11rc4na9bcebbdlg2mo3nn4pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0dgXeUNCsQzebYzxQT_MLlvVsUP1SFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534609374343-f73cfnu11rc4na9bcebbdlg2mo3nn4pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
